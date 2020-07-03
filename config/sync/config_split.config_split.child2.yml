@@ -1,0 +1,17 @@
+uuid: fe41c795-92ef-4e63-9f27-da8ad874c9da
+langcode: en
+status: true
+dependencies: {  }
+id: child2
+label: child2
+description: ''
+folder: config/child2
+module:
+  tour: 0
+  views_ui: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

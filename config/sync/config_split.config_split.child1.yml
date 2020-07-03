@@ -1,0 +1,17 @@
+uuid: c2f787d6-18c7-459b-9d6f-580a3b986840
+langcode: en
+status: true
+dependencies: {  }
+id: child1
+label: child1
+description: ''
+folder: config/child1
+module:
+  big_pipe: 0
+  contact: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
