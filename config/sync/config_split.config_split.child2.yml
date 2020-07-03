@@ -7,8 +7,7 @@ label: child2
 description: ''
 folder: config/child2
 module:
-  tour: 0
-  views_ui: 0
+  contact: 0
 theme: {  }
 blacklist: {  }
 graylist: {  }

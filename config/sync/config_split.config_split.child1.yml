@@ -8,7 +8,6 @@ description: ''
 folder: config/child1
 module:
   big_pipe: 0
-  contact: 0
 theme: {  }
 blacklist: {  }
 graylist: {  }

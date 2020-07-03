@@ -802,4 +802,7 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );
-$settings['config_sync_directory'] = 'sites/childtwo/files/config_p0Q9_HYPlPe6d5rFsSWBbLYIDDLQVsAMR5niK1BHjhsQp1uMKTcdGWL-4CkbvWuiy1PQVa3G4w/sync';
+//$settings['config_sync_directory'] = 'sites/childtwo/files/config_p0Q9_HYPlPe6d5rFsSWBbLYIDDLQVsAMR5niK1BHjhsQp1uMKTcdGWL-4CkbvWuiy1PQVa3G4w/sync';
+$config_directories['sync'] = 'config/sync';
+$config_directories['child2'] = 'config/child2';
+$config['config_split.config_split.child2']['folder'] = 'config/child2';
